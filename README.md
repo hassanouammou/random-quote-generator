@@ -1,1 +1,1 @@
-# Simple random quote generated build with React
+# Simple random quote generated built with React
